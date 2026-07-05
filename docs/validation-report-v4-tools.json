@@ -1,0 +1,404 @@
+[
+  {
+    "path": "skill-template/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8991
+  },
+  {
+    "path": "skill-builder-hub/skills/skill-installer/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7791
+  },
+  {
+    "path": "skill-builder-hub/skills/skill-manager/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7660
+  },
+  {
+    "path": "skill-builder-hub/skills/skill-updater/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7660
+  },
+  {
+    "path": "skill-builder-hub/skills/skill-disabler/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7564
+  },
+  {
+    "path": "skill-builder-hub/skills/skill-uninstaller/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7602
+  },
+  {
+    "path": "skill-builder-hub/skills/registry-browser/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7676
+  },
+  {
+    "path": "skill-builder-hub/skills/related-skills-finder/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7614
+  },
+  {
+    "path": "skill-builder-hub/skills/skills-quality-auditor/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7781
+  },
+  {
+    "path": "legal-safety-review/skills/confidentiality-risk-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7827
+  },
+  {
+    "path": "legal-safety-review/skills/privilege-risk-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7863
+  },
+  {
+    "path": "legal-safety-review/skills/jurisdiction-risk-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7942
+  },
+  {
+    "path": "legal-safety-review/skills/hallucination-risk-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7893
+  },
+  {
+    "path": "legal-safety-review/skills/citation-risk-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7751
+  },
+  {
+    "path": "legal-safety-review/skills/public-output-risk-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8157
+  },
+  {
+    "path": "legal-safety-review/skills/human-review-gate/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7879
+  },
+  {
+    "path": "legal-research/skills/source-finder/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7724
+  },
+  {
+    "path": "legal-research/skills/authority-mapper/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7709
+  },
+  {
+    "path": "legal-research/skills/case-law-summarizer/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7640
+  },
+  {
+    "path": "legal-research/skills/statute-summarizer/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7727
+  },
+  {
+    "path": "legal-research/skills/citation-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7833
+  },
+  {
+    "path": "legal-research/skills/jurisdiction-checker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7755
+  },
+  {
+    "path": "legal-research/skills/research-memo-builder/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7763
+  },
+  {
+    "path": "legal-research/skills/source-reliability-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7839
+  },
+  {
+    "path": "law-student/skills/cold-start-interview/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7913
+  },
+  {
+    "path": "law-student/skills/customize/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7774
+  },
+  {
+    "path": "law-student/skills/study-session/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7573
+  },
+  {
+    "path": "law-student/skills/case-brief/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7748
+  },
+  {
+    "path": "law-student/skills/cold-call-prep/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7714
+  },
+  {
+    "path": "law-student/skills/irac-practice/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7811
+  },
+  {
+    "path": "law-student/skills/legal-writing/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7780
+  },
+  {
+    "path": "law-student/skills/outline-builder/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7636
+  },
+  {
+    "path": "law-student/skills/flashcards/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7543
+  },
+  {
+    "path": "law-student/skills/socratic-drill/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7602
+  },
+  {
+    "path": "law-student/skills/exam-forecast/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7704
+  },
+  {
+    "path": "law-student/skills/bar-prep-questions/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7703
+  },
+  {
+    "path": "law-student/skills/study-plan/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7704
+  },
+  {
+    "path": "ai-governance-legal/skills/cold-start-interview/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7913
+  },
+  {
+    "path": "ai-governance-legal/skills/customize/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7774
+  },
+  {
+    "path": "ai-governance-legal/skills/matter-workspace/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7825
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-use-case-triage/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 9388
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-inventory/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8760
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-risk-assessment/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8903
+  },
+  {
+    "path": "ai-governance-legal/skills/vendor-ai-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8894
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-policy-starter/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8727
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-policy-monitor/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8495
+  },
+  {
+    "path": "ai-governance-legal/skills/ai-regulatory-gap-analysis/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8567
+  },
+  {
+    "path": "privacy-legal/skills/cold-start-interview/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7913
+  },
+  {
+    "path": "privacy-legal/skills/customize/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7774
+  },
+  {
+    "path": "privacy-legal/skills/matter-workspace/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7825
+  },
+  {
+    "path": "privacy-legal/skills/dpa-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 9030
+  },
+  {
+    "path": "privacy-legal/skills/dsar-response/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8917
+  },
+  {
+    "path": "privacy-legal/skills/privacy-impact-assessment/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8925
+  },
+  {
+    "path": "privacy-legal/skills/data-use-triage/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8530
+  },
+  {
+    "path": "privacy-legal/skills/privacy-policy-monitor/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8483
+  },
+  {
+    "path": "privacy-legal/skills/privacy-gap-analysis/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8519
+  },
+  {
+    "path": "commercial-legal/skills/cold-start-interview/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7913
+  },
+  {
+    "path": "commercial-legal/skills/customize/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7774
+  },
+  {
+    "path": "commercial-legal/skills/matter-workspace/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 7825
+  },
+  {
+    "path": "commercial-legal/skills/contract-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8993
+  },
+  {
+    "path": "commercial-legal/skills/nda-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8958
+  },
+  {
+    "path": "commercial-legal/skills/vendor-agreement-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8813
+  },
+  {
+    "path": "commercial-legal/skills/saas-agreement-review/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8813
+  },
+  {
+    "path": "commercial-legal/skills/amendment-history/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 9302
+  },
+  {
+    "path": "commercial-legal/skills/renewal-tracker/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8457
+  },
+  {
+    "path": "commercial-legal/skills/escalation-flagger/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8339
+  },
+  {
+    "path": "commercial-legal/skills/stakeholder-summary/SKILL.md",
+    "ok": true,
+    "missing": [],
+    "chars": 8390
+  }
+]

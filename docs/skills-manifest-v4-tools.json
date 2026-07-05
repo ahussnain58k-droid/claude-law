@@ -1,0 +1,1146 @@
+[
+  {
+    "pack": "commercial-legal",
+    "skill": "cold-start-interview",
+    "title": "Cold Start Interview",
+    "path": "commercial-legal/skills/cold-start-interview/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-profile",
+      "edit-jurisdiction",
+      "edit-reviewer",
+      "set-distribution",
+      "export-profile"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "customize",
+    "title": "Customization Tool",
+    "path": "commercial-legal/skills/customize/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan-customization",
+      "edit-command",
+      "edit-yaml-schema",
+      "check-safety-regression",
+      "export-changelog"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "matter-workspace",
+    "title": "Matter Workspace",
+    "path": "commercial-legal/skills/matter-workspace/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-matter",
+      "add-document",
+      "add-issue",
+      "add-obligation",
+      "edit-status",
+      "export-workspace"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "contract-review",
+    "title": "Contract Review",
+    "path": "commercial-legal/skills/contract-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "list-clauses",
+      "add-issue",
+      "edit-risk",
+      "route-obligations",
+      "export-issues"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "nda-review",
+    "title": "NDA Review",
+    "path": "commercial-legal/skills/nda-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "set-role",
+      "list-obligations",
+      "scan-hidden-terms",
+      "edit-position",
+      "export-markup-notes"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "vendor-agreement-review",
+    "title": "Vendor Agreement Review",
+    "path": "commercial-legal/skills/vendor-agreement-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "tier-vendor",
+      "list-obligations",
+      "route-impact",
+      "edit-tier",
+      "export-procurement-summary"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "saas-agreement-review",
+    "title": "SaaS Agreement Review",
+    "path": "commercial-legal/skills/saas-agreement-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "list-subscription-terms",
+      "check-data-ai",
+      "check-exit",
+      "route-obligations",
+      "export-saas-issues"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "amendment-history",
+    "title": "Amendment History",
+    "path": "commercial-legal/skills/amendment-history/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "list-docs",
+      "add-doc",
+      "edit-order",
+      "trace-provision",
+      "find-conflicts",
+      "export-current-terms"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "renewal-tracker",
+    "title": "Renewal Tracker",
+    "path": "commercial-legal/skills/renewal-tracker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "list-renewals",
+      "add-renewal",
+      "edit-date",
+      "calculate-notice",
+      "route-owner",
+      "export-tracker"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "escalation-flagger",
+    "title": "Escalation Flagger",
+    "path": "commercial-legal/skills/escalation-flagger/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "assess",
+      "list-triggers",
+      "add-trigger",
+      "assign-owner",
+      "draft-escalation",
+      "export-routing"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "commercial-legal",
+    "skill": "stakeholder-summary",
+    "title": "Stakeholder Summary",
+    "path": "commercial-legal/skills/stakeholder-summary/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "summarize",
+      "set-audience",
+      "list-decisions",
+      "edit-tone",
+      "redact",
+      "export-email"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "cold-start-interview",
+    "title": "Cold Start Interview",
+    "path": "privacy-legal/skills/cold-start-interview/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-profile",
+      "edit-jurisdiction",
+      "edit-reviewer",
+      "set-distribution",
+      "export-profile"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "customize",
+    "title": "Customization Tool",
+    "path": "privacy-legal/skills/customize/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan-customization",
+      "edit-command",
+      "edit-yaml-schema",
+      "check-safety-regression",
+      "export-changelog"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "matter-workspace",
+    "title": "Matter Workspace",
+    "path": "privacy-legal/skills/matter-workspace/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-matter",
+      "add-document",
+      "add-issue",
+      "add-obligation",
+      "edit-status",
+      "export-workspace"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "dpa-review",
+    "title": "DPA Review",
+    "path": "privacy-legal/skills/dpa-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "set-role",
+      "list-processing",
+      "check-transfers",
+      "route-impact",
+      "export-dpa-issues"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "dsar-response",
+    "title": "DSAR Response",
+    "path": "privacy-legal/skills/dsar-response/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "intake",
+      "list-requests",
+      "edit-status",
+      "calculate-deadline",
+      "route-search",
+      "export-response-plan"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "privacy-impact-assessment",
+    "title": "Privacy Impact Assessment",
+    "path": "privacy-legal/skills/privacy-impact-assessment/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create",
+      "list-assessments",
+      "add-processing",
+      "edit-risk",
+      "route-controls",
+      "export-approval"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "data-use-triage",
+    "title": "Data Use Triage",
+    "path": "privacy-legal/skills/data-use-triage/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "triage",
+      "add-use",
+      "edit-purpose",
+      "route-assessment",
+      "export-decision"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "privacy-policy-monitor",
+    "title": "Privacy Policy Monitor",
+    "path": "privacy-legal/skills/privacy-policy-monitor/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan-policy",
+      "add-practice",
+      "compare",
+      "edit-gap",
+      "route-gap",
+      "export-backlog"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "privacy-legal",
+    "skill": "privacy-gap-analysis",
+    "title": "Privacy Gap Analysis",
+    "path": "privacy-legal/skills/privacy-gap-analysis/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "map-requirements",
+      "add-control",
+      "edit-gap",
+      "assign-owner",
+      "route-impact",
+      "export-remediation"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "cold-start-interview",
+    "title": "Cold Start Interview",
+    "path": "ai-governance-legal/skills/cold-start-interview/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-profile",
+      "edit-jurisdiction",
+      "edit-reviewer",
+      "set-distribution",
+      "export-profile"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "customize",
+    "title": "Customization Tool",
+    "path": "ai-governance-legal/skills/customize/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan-customization",
+      "edit-command",
+      "edit-yaml-schema",
+      "check-safety-regression",
+      "export-changelog"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "matter-workspace",
+    "title": "Matter Workspace",
+    "path": "ai-governance-legal/skills/matter-workspace/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-matter",
+      "add-document",
+      "add-issue",
+      "add-obligation",
+      "edit-status",
+      "export-workspace"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-use-case-triage",
+    "title": "AI Use Case Triage",
+    "path": "ai-governance-legal/skills/ai-use-case-triage/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "triage",
+      "set-role",
+      "set-tier",
+      "check-substantial-modification",
+      "route-assessment",
+      "export-approval-path"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-inventory",
+    "title": "AI Inventory",
+    "path": "ai-governance-legal/skills/ai-inventory/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "list-systems",
+      "add-system",
+      "edit-system",
+      "set-role-tier",
+      "mark-substantial-modification",
+      "export-inventory"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-risk-assessment",
+    "title": "AI Risk Assessment",
+    "path": "ai-governance-legal/skills/ai-risk-assessment/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "assess",
+      "set-role-tier",
+      "add-control",
+      "edit-risk",
+      "check-substantial-modification",
+      "export-approval-memo"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "vendor-ai-review",
+    "title": "Vendor AI Review",
+    "path": "ai-governance-legal/skills/vendor-ai-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "list-data-uses",
+      "set-vendor-role",
+      "check-training",
+      "route-impact",
+      "export-vendor-ai-issues"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-policy-starter",
+    "title": "AI Policy Starter",
+    "path": "ai-governance-legal/skills/ai-policy-starter/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-policy",
+      "add-rule",
+      "edit-gate",
+      "add-role-tier-rule",
+      "add-substantial-modification-rule",
+      "export-policy"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-policy-monitor",
+    "title": "AI Policy Monitor",
+    "path": "ai-governance-legal/skills/ai-policy-monitor/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan-policy",
+      "compare-inventory",
+      "add-drift",
+      "mark-substantial-modification",
+      "assign-remediation",
+      "export-drift-report"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "ai-governance-legal",
+    "skill": "ai-regulatory-gap-analysis",
+    "title": "AI Regulatory Gap Analysis",
+    "path": "ai-governance-legal/skills/ai-regulatory-gap-analysis/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "map-framework",
+      "add-evidence",
+      "edit-gap",
+      "route-obligation",
+      "export-roadmap"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "cold-start-interview",
+    "title": "Cold Start Interview",
+    "path": "law-student/skills/cold-start-interview/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-profile",
+      "edit-jurisdiction",
+      "edit-reviewer",
+      "set-distribution",
+      "export-profile"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "customize",
+    "title": "Customization Tool",
+    "path": "law-student/skills/customize/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan-customization",
+      "edit-command",
+      "edit-yaml-schema",
+      "check-safety-regression",
+      "export-changelog"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "study-session",
+    "title": "Study Session",
+    "path": "law-student/skills/study-session/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "start-session",
+      "ask",
+      "practice",
+      "grade",
+      "export-review"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "case-brief",
+    "title": "Case Brief",
+    "path": "law-student/skills/case-brief/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "brief",
+      "list-elements",
+      "add-note",
+      "edit-brief",
+      "export-class-notes"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "cold-call-prep",
+    "title": "Cold Call Prep",
+    "path": "law-student/skills/cold-call-prep/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "prepare",
+      "add-question",
+      "edit-answer",
+      "drill",
+      "export-one-minute-summary"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "irac-practice",
+    "title": "IRAC Practice",
+    "path": "law-student/skills/irac-practice/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "issue-spot",
+      "draft-irac",
+      "edit-rule",
+      "score-answer",
+      "export-model-answer"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "legal-writing",
+    "title": "Legal Writing",
+    "path": "law-student/skills/legal-writing/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "diagnose",
+      "edit-section",
+      "add-authority-note",
+      "rewrite",
+      "export-feedback"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "outline-builder",
+    "title": "Outline Builder",
+    "path": "law-student/skills/outline-builder/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "build",
+      "add-rule",
+      "add-case",
+      "edit-topic",
+      "export-attack-outline"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "flashcards",
+    "title": "Flashcards",
+    "path": "law-student/skills/flashcards/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create",
+      "add-card",
+      "edit-card",
+      "tag-card",
+      "export-deck"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "socratic-drill",
+    "title": "Socratic Drill",
+    "path": "law-student/skills/socratic-drill/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "start",
+      "next-question",
+      "hint",
+      "grade-answer",
+      "export-debrief"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "exam-forecast",
+    "title": "Exam Forecast",
+    "path": "law-student/skills/exam-forecast/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "forecast",
+      "add-material",
+      "rank-topic",
+      "create-prompt",
+      "export-study-priorities"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "bar-prep-questions",
+    "title": "Bar Prep Questions",
+    "path": "law-student/skills/bar-prep-questions/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-question",
+      "add-distractor",
+      "edit-explanation",
+      "score-response",
+      "export-question-set"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "law-student",
+    "skill": "study-plan",
+    "title": "Study Plan",
+    "path": "law-student/skills/study-plan/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "create-plan",
+      "add-block",
+      "edit-priority",
+      "mark-complete",
+      "export-calendar"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "source-finder",
+    "title": "Source Finder",
+    "path": "legal-research/skills/source-finder/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan",
+      "add-issue",
+      "add-search",
+      "rank-source",
+      "export-research-log"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "authority-mapper",
+    "title": "Authority Mapper",
+    "path": "legal-research/skills/authority-mapper/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "map",
+      "add-authority",
+      "edit-treatment",
+      "rank-authority",
+      "export-map"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "case-law-summarizer",
+    "title": "Case Law Summarizer",
+    "path": "legal-research/skills/case-law-summarizer/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "summarize",
+      "add-fact-limit",
+      "mark-dicta",
+      "edit-holding",
+      "export-case-note"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "statute-summarizer",
+    "title": "Statute Summarizer",
+    "path": "legal-research/skills/statute-summarizer/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "summarize",
+      "add-definition",
+      "add-exception",
+      "edit-element",
+      "export-checklist"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "citation-checker",
+    "title": "Citation Checker",
+    "path": "legal-research/skills/citation-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "check",
+      "add-citation",
+      "link-proposition",
+      "mark-unverified",
+      "export-citation-queue"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "jurisdiction-checker",
+    "title": "Jurisdiction Checker",
+    "path": "legal-research/skills/jurisdiction-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "check",
+      "add-claim",
+      "set-jurisdiction",
+      "rewrite-claim",
+      "export-risk-table"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "research-memo-builder",
+    "title": "Research Memo Builder",
+    "path": "legal-research/skills/research-memo-builder/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "build",
+      "add-authority",
+      "edit-short-answer",
+      "add-gap",
+      "export-memo"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-research",
+    "skill": "source-reliability-review",
+    "title": "Source Reliability Review",
+    "path": "legal-research/skills/source-reliability-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "add-source",
+      "rank-source",
+      "mark-limit",
+      "export-source-table"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "confidentiality-risk-checker",
+    "title": "Confidentiality Risk Checker",
+    "path": "legal-safety-review/skills/confidentiality-risk-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan",
+      "add-sensitive-item",
+      "mark-redaction",
+      "create-safe-version",
+      "export-redaction-log"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "privilege-risk-checker",
+    "title": "Privilege Risk Checker",
+    "path": "legal-safety-review/skills/privilege-risk-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan",
+      "set-recipients",
+      "mark-privileged",
+      "recommend-handling",
+      "export-privilege-note"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "jurisdiction-risk-checker",
+    "title": "Jurisdiction Risk Checker",
+    "path": "legal-safety-review/skills/jurisdiction-risk-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "list",
+      "add",
+      "edit",
+      "review",
+      "route",
+      "export"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "hallucination-risk-checker",
+    "title": "Hallucination Risk Checker",
+    "path": "legal-safety-review/skills/hallucination-risk-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan",
+      "add-claim",
+      "mark-supported",
+      "remove-unsupported",
+      "export-verification-table"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "citation-risk-checker",
+    "title": "Citation Risk Checker",
+    "path": "legal-safety-review/skills/citation-risk-checker/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "scan",
+      "add-citation",
+      "link-claim",
+      "mark-risk",
+      "export-citation-risk-queue"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "public-output-risk-review",
+    "title": "Public Output Risk Review",
+    "path": "legal-safety-review/skills/public-output-risk-review/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "review",
+      "mark-risk",
+      "rewrite-safe",
+      "add-disclaimer",
+      "export-public-version"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "legal-safety-review",
+    "skill": "human-review-gate",
+    "title": "Human Review Gate",
+    "path": "legal-safety-review/skills/human-review-gate/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "gate",
+      "set-use",
+      "add-risk",
+      "assign-reviewer",
+      "export-decision"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skill-installer",
+    "title": "Skill Installer",
+    "path": "skill-builder-hub/skills/skill-installer/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "inspect",
+      "check-license",
+      "check-permissions",
+      "sandbox-test",
+      "approve-install"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skill-manager",
+    "title": "Skill Manager",
+    "path": "skill-builder-hub/skills/skill-manager/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "list-skills",
+      "add-skill",
+      "edit-skill",
+      "disable-skill",
+      "export-inventory"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skill-updater",
+    "title": "Skill Updater",
+    "path": "skill-builder-hub/skills/skill-updater/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "compare",
+      "mark-change",
+      "run-tests",
+      "approve-update",
+      "export-update-note"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skill-disabler",
+    "title": "Skill Disabler",
+    "path": "skill-builder-hub/skills/skill-disabler/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "assess-impact",
+      "disable",
+      "add-reason",
+      "set-reenable-conditions",
+      "export-disable-note"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skill-uninstaller",
+    "title": "Skill Uninstaller",
+    "path": "skill-builder-hub/skills/skill-uninstaller/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "plan-uninstall",
+      "list-files",
+      "preserve-data",
+      "remove",
+      "export-uninstall-record"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "registry-browser",
+    "title": "Registry Browser",
+    "path": "skill-builder-hub/skills/registry-browser/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "search",
+      "rank",
+      "check-license",
+      "check-trust",
+      "export-shortlist"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "related-skills-finder",
+    "title": "Related Skills Finder",
+    "path": "skill-builder-hub/skills/related-skills-finder/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "find",
+      "check-conflict",
+      "rank-fit",
+      "export-routes"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  },
+  {
+    "pack": "skill-builder-hub",
+    "skill": "skills-quality-auditor",
+    "title": "Skills Quality Auditor",
+    "path": "skill-builder-hub/skills/skills-quality-auditor/SKILL.md",
+    "version": "4.1.0",
+    "commands": [
+      "audit",
+      "score",
+      "list-fixes",
+      "mark-risk",
+      "export-audit"
+    ],
+    "yaml_storage": true,
+    "explicit_triggers_only": true,
+    "obligations_analysis": true
+  }
+]
